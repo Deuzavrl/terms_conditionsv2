@@ -15,3 +15,5 @@ setup(name='terms_conditions',
       include_package_data=True,
       scripts=['scripts/terms_conditions-run'],
       zip_safe=False)
+
+#test to commit
