@@ -16,8 +16,11 @@ pytest
 yapf
 
 # API
+datalab
 gcsfs
 google-cloud-storage
+google-cloud-bigquery
+google-cloud-bigquery-storage
 mlflow
 s3fs
 
